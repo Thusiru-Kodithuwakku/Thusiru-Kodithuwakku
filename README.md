@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Thusiru-Kodithuwakku
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python
-
 # Hi there, I'm Thusiru! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Thusiru-Kodithuwakku&color=blue)
@@ -41,7 +37,6 @@ A brief description of another project.
 ## GitHub Stats
 
 ![Thusiru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thusiru-Kodithuwakku&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thusiru-Kodithuwakku&layout=compact&theme=radical)
 
 ## Fun Fact
@@ -49,13 +44,3 @@ I love coding and playing video games on my Asus ROG G513QC!
 
 <!-- Optional: GitHub streak stats -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thusiru-Kodithuwakku&theme=radical)
-
-<!-- Optional: GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Thusiru-Kodithuwakku&theme=radical)
-
-
-
-<!---
-Thusiru-Kodithuwakku/Thusiru-Kodithuwakku is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
